@@ -1,0 +1,10 @@
+.userbox{
+    padding: 10px;
+    background-color: white;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.userbox h4{
+    color: black;
+    margin: 0;
+}

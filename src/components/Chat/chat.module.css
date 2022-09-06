@@ -1,0 +1,42 @@
+.chat {
+  height: 100%;
+}
+.usernameBox {
+  height: 10%;
+  box-shadow: 10px 10px 10px black;
+  display: flex;
+  align-items: center;
+}
+.usernameBox h4{
+    margin: 0;
+}
+.chatBody {
+  height: 80%;
+  background-color: rgba(128, 128, 128, 0.664);
+  padding: 10px 0;
+  overflow: scroll;
+}
+.chatContent{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.inputMessage {
+  height: 10%;
+  padding: 10px 0;
+  display: flex;
+}
+.inputMessage form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+.inputMessage input {
+  width: 70%;
+  height: 100%;
+  padding: 5px 15px;
+}
+.inputMessage button {
+  width: 20%;
+}

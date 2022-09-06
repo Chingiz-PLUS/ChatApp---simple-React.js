@@ -1,0 +1,14 @@
+.chatRow{
+    width: 100%;
+    display: flex;
+}
+.messageBox{
+    padding: 6px 8px;
+    background-color: white;
+    border-radius: 8px;
+    width: 70%;
+}
+.messageBox p{
+    margin: 0;
+    text-align: start;
+}

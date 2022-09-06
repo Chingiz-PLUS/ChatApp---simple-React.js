@@ -1,0 +1,40 @@
+{
+  "users":[
+    {
+      "id": 1,
+      "username": "Farid",
+      "messages":[
+          {
+              "text": "salam necese?",
+              "from": true
+          },
+          {
+              "text": "Yaxwiyam, sen necesen?",
+              "from": false
+          },
+          {
+              "text": "ne var ne yox?",
+              "from": false
+          }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "Eljan",
+      "messages":[
+          {
+              "text": "salam",
+              "from": true
+          },
+          {
+              "text": "necesen?",
+              "from": true
+          },
+          {
+              "text": "salam, ne var ne yox?",
+              "from": false
+          }
+      ]
+    }
+  ]
+}
